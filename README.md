@@ -36,7 +36,7 @@ python FallingLambs.py
    - Use your thumb and index finger to pinch/catch objects
    - **Catch lambs**: +1 point
    - **Miss a lamb**: -1 point
-   - **Game Over**: When accidentally catching a wolf
+   - **Game Over**: When accidentally catching a wolf or score gets below 0
 
 3. **Controls:**
    - Position your thumb and index finger around falling objects

@@ -35,9 +35,8 @@ python FallingLambs.py
    - Objects fall from the top of the screen every 2 seconds
    - Use your thumb and index finger to pinch/catch objects
    - **Catch lambs**: +1 point
-   - **Catch wolves**: -1 point
    - **Miss a lamb**: -1 point
-   - **Game Over**: When points drop below 0
+   - **Game Over**: When accidentally catching a wolf
 
 3. **Controls:**
    - Position your thumb and index finger around falling objects
